@@ -19,8 +19,6 @@ int main_menu_view()
 	cout << "\t\t  *****           H E L L O !  W E L C O M E  T O  T H E  'Q U I Z L E T'         *****" << endl;
 	cout << "\t\t  *****                = = = = = = = = = = = = = = = = = = = = = = = =            *****" << endl;
 	cout << "\t\t  *****                          = = = = = = = = = = = =                          *****" << endl;
-	cout << "\t\t  *****                                   B Y                                     *****" << endl;
-	cout << "\t\t  *****                       R U S T A M    Z O K I R O V                        *****" << endl;
 	cout << "\t\t  *****                                                                           *****" << endl;
 	cout << "\t\t  *************************************************************************************" << endl;
 	cout << endl;
